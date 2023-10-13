@@ -35,9 +35,3 @@ Loop is an engaging and informative app that raises awareness about the importan
 4. Earn points for correct answers and aim for the highest score possible!
 
 ![Quiz Game](https://github.com/BortoAle/Loop/assets/64900362/33dd806b-7bb5-4a20-b0f4-abe900b60750)
-
-## License
-
-This project is licensed under the MIT License.
-
-Feel free to use, modify, or distribute the code as needed. Please consider giving credit to the original author if you find this project helpful. Enjoy!
