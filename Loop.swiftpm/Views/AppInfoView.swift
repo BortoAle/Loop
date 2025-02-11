@@ -47,7 +47,7 @@ struct AppInfoView: View {
     }
     
     var projectInfo: some View {
-        Text("WWDC23 Swift Student Challange Project")
+        Text("WWDC23 Swift Student Challenge Project")
             .font(.footnote)
             .foregroundColor(.secondary)
     }
